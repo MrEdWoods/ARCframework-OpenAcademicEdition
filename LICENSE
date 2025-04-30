@@ -33,7 +33,7 @@ As long as you:
 
 To license ARC for commercial use (e.g., product integration, proprietary consulting, or SaaS delivery), you must obtain a commercial license.
 
-📩 Contact: licensing@arcframework.ai
+📩 Contact: licensing@websoa.com
 
 ---
 
