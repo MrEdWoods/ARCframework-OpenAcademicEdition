@@ -56,7 +56,7 @@ You **may not**:
 - Represent ARC as your own framework or license it independently
 
 To request a commercial or enterprise license, contact:  
-📩 **licensing@websoa.com**
+📩 **licensing@arcframework.ai**
 
 ---
 
