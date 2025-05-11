@@ -29,9 +29,9 @@ Together, these three pillars form the foundation of **epistemically responsible
   - Reference  
   - Cite Sources
 - 🧭 Tier-2 Protocol:  
-  - Analyze  
-  - Re-frame  
-  - Commit
+  - Analyze / Audit  
+  - Re-frame / Rigor  
+  - Commit / Contextualized
 - ♻️ The Curation Continuum
 - 📘 Scholarly derivation aligned with NIST AI Risk Management Framework
 - 📄 License terms (CC BY-ND 4.0 with commercial restrictions)
