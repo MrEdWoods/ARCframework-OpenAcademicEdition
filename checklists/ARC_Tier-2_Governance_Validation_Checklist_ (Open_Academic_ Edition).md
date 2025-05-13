@@ -106,3 +106,4 @@ This principle threads through every ARC workflow. It transforms AI from a respo
 
 👀 For Tier-1 narrative review, see: [Tier-1 RAG Governance Checklist](./ARC_Tier1_Governance_Validation_Checklist_(Open_Academic_Edition).md)
 
+© 2025 Ed Woods | ARCframework.ai | CC BY-ND 4.0
