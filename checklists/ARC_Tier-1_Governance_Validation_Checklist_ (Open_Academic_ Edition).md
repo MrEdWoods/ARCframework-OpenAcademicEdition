@@ -71,3 +71,4 @@ ARC Tier-1 is about **trustworthy knowledge grounding**. It ensures AI doesn’t
 
 👀 For Tier-2 narrative review, see: [Tier-2_Governance_Validation_Checklist](./Tier2_Governance_Checklist_Open_Academic_Edition.md)
 
+© 2025 Ed Woods | ARCframework.ai | CC BY-ND 4.0
