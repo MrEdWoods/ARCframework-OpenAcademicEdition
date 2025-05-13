@@ -45,3 +45,5 @@ Use both checklists in sequence as part of an **AI governance pipeline**:
 > 📌 Together, these tiers prevent AI misuse and promote academically and ethically rigorous outputs.
 
 For questions or contributions, submit a pull request or open an issue. Citation and academic use encouraged.
+
+© 2025 Ed Woods | ARCframework.ai | CC BY-ND 4.0
