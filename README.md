@@ -69,7 +69,7 @@ To request a commercial or enterprise license, contact:
 
 ## ✍️ Attribution
 
-Woods, E. (2025). *The ARC Framework for Human-AI Collaboration*. ARCframework.ai. Licensed under CC BY-ND 4.0.
+Woods, E. (2025). *The ARC Framework for Human-AI Contexualization*. ARCframework.ai. Licensed under CC BY-ND 4.0.
 
 ---
 
