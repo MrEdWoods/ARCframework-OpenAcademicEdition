@@ -104,6 +104,6 @@ This principle threads through every ARC workflow. It transforms AI from a respo
 👀 For comments, suggestions, or case contributions, submit an issue or pull request.  
 ✍️ To use in academic or enterprise settings, **please cite this repository**.
 
-👀 For Tier-1 narrative review, see: [Tier-1_Governance_Validation_Checklist](ARC_Tier-1_Governance_Validation_Checklist_(Open_Academic_Edition).md)
+👀 For Tier-1 narrative review, see: [Tier-1_Governance_Validation_Checklist](ARC_Tier-1_Governance_Validation_Checklist_(Open_Academic_ Edition).md)
 
 © 2025 Ed Woods | ARCframework.ai | CC BY-ND 4.0
