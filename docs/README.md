@@ -1,2 +1,2 @@
 # Docs Folder
-This folder contains scholarly papers and supporting documents for ARC Framework.
+This folder contains white papers and supporting documents for ARC AI Framework.
