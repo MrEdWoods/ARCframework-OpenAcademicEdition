@@ -32,7 +32,7 @@ The protocol operates across two tiers:
 ## 📬 Citation
 If referencing this protocol in research, governance reports, or coursework:
 ```
-Woods, E. (2025). *ARC AI Framework Protocol (052125-v5)*. ARC AI Framework Initiative. https://github.com/[your-repo-link]
+Woods, E. (2025). *ARC AI Framework Protocol (052125-v5)*. ARC AI Framework Initiative. [https://github.com/[your-repo-link]](https://github.com/MrEdWoods/ARCframework-OpenAcademicEdition)
 ```
 
 ## 🚫 License Notice
