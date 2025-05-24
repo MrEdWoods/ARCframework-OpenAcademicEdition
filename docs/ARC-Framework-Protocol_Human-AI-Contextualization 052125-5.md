@@ -10,15 +10,15 @@ _Aligned to APA 7th Edition Standards and ARC Tier-1 & Tier-2 Validation_
 
 **Abstract**
 
-As artificial intelligence (AI) systems increasingly mediate knowledge work, decision-making, and strategic operations, the integrity of human-AI contextualizationhow humans frame, interpret, and act on AI outputshas emerged as a critical ethical and epistemic concern. This paper presents the ARC FrameworkAccurate, Reliable, Contextualas a structured protocol for auditing and enhancing the trustworthiness of AI-generated intelligence. Developed under the ARC AI Framework Initiative, a research and governance effort focused on responsible AI deployment, ARC is grounded in peer-reviewed research and aligned with institutional standards. It mitigates known risks such as hallucination, bias propagation, and context drift. Tier 1 embeds rigor through role definition, source validation, and citation integrity; Tier 2 guides users through analysis, reframing, and context-aligned commitment.
+As artificial intelligence (AI) systems increasingly mediate knowledge work, decision-making, and strategic operations, the integrity of human-AI contextualization, is how humans frame, interpret, and act on AI outputs has emerged as a critical ethical and epistemic concern. This paper presents the ARC Framework Accurate, Reliable, Contextual as a structured protocol for auditing and enhancing the trustworthiness of AI-generated intelligence. Developed under the ARC AI Framework Initiative, a research and governance effort focused on responsible AI deployment, ARC is grounded in peer-reviewed research and aligned with institutional standards. It mitigates known risks such as hallucination, bias propagation, and context drift. Tier 1 embeds rigor through role definition, source validation, and citation integrity; Tier 2 guides users through analysis, reframing, and context-aligned commitment.
 
-In this 2025 revision, ARC is formalized as an epistemic protocola reproducible system with defined checkpoints for validation, citation, and judgment. It integrates Retrieval-Augmented Generation (RAG) as a Tier-1 engine for source-grounded generation and redefines the A in the ARC Loop as Analyze/Audit, uniting interpretive critique with forensic traceability. Together, these developments position ARC as a full-spectrum, governance-ready protocol for responsible, context-aware AI deployment.
+In this 2025 revision, ARC is formalized as an epistemic protocol a reproducible system with defined checkpoints for validation, citation, and judgment. It integrates Retrieval-Augmented Generation (RAG) as a Tier-1 engine for source-grounded generation and redefines the A in the ARC Loop as Analyze/Audit, uniting interpretive critique with forensic traceability. Together, these developments position ARC as a full-spectrum, governance-ready protocol for responsible, context-aware AI deployment.
 
 **Keywords:** ARC Framework, Epistemic Trust, Human-AI Collaboration, Contextual Intelligence, Tier-1 Validation & Rigor, Tier-2 Decision & Refinement, AI Governance
 
 **Introduction**
 
-The rapid integration of AI systems across sectors such as education, governance, climate modeling, and healthcare has raised urgent concerns about the trustworthiness of machine-generated outputs (Floridi & Cowls, 2022). Many generative AI models, including large language models, are prone to hallucinated facts, fragile logic chains, and contextual misalignment (Raji et al., 2020). These failures are not mere technical glitchesthey represent deeper epistemological vulnerabilities in how knowledge is produced, framed, and interpreted. To address these challenges, the ARC Framework has evolved into a structured, human-centered protocol designed to ensure AI output integrity across three foundational dimensions: Accuracy, Reliability, and Contextuality (Woods, 2025).
+The rapid integration of AI systems across sectors such as education, governance, climate modeling, and healthcare has raised urgent concerns about the trustworthiness of machine-generated outputs (Floridi & Cowls, 2022). Many generative AI models, including large language models, are prone to hallucinated facts, fragile logic chains, and contextual misalignment (Raji et al., 2020). These failures are not mere technical glitches they represent deeper epistemological vulnerabilities in how knowledge is produced, framed, and interpreted. To address these challenges, the ARC Framework has evolved into a structured, human-centered protocol designed to ensure AI output integrity across three foundational dimensions: Accuracy, Reliability, and Contextuality (Woods, 2025).
 
 More than a conceptual model, ARC functions as a repeatable epistemic protocol, integrating role-specific prompting, citation validation, and traceable reasoning steps. Recent industry consensus supports this evolution.
 
@@ -26,7 +26,7 @@ As the Forbes Technology Council (2023) notes, contextualization is the key to u
 
 **Clarifying ARCs Core Structure: Pillars vs. Tiers**
 
-The ARC Framework is built upon three epistemic pillars: **Accuracy**, **Reliability**, and **Contextuality**. These are not tied to a specific tier or stage; rather, they form the evaluative foundation used to assess AI outputs at all levels. Think of them as the "why" behind ARCwhy we audit AI outputs, why we structure human-AI interactions, and why integrity matters.
+The ARC Framework is built upon three epistemic pillars: **Accuracy**, **Reliability**, and **Contextuality**. These are not tied to a specific tier or stage; rather, they form the evaluative foundation used to assess AI outputs at all levels. Think of them as the "why" behind ARC, why we audit AI outputs, why we structure human-AI interactions, and why integrity matters.
 
 To apply these pillars in practice, ARC introduces two tiers:
 
@@ -63,21 +63,21 @@ This protocol reinforces ARC as a **thinking system** and **validation engine**,
 
 **Contextualization in the Scholarly Landscape**
 
-ARCs emphasis on contextualization aligns with a growing body of interdisciplinary research across human-computer interaction (HCI), AI education, systems theory, and epistemology. Eguchi et al. (2021) underscore the value of culturally responsive, context-aware AI education. Hirsch et al. (2023) explore contextual framing in HCI-based cultural heritage systems. Murphy and Largacha\-Martinez (2023) argue that contextualization is essential for aligning AI systems with real-world organizational complexity. Addas (2020) warns that neglecting context often results in systemic failure. Nardi (1996), in her foundational work on activity theory, establishes that context is not peripheralit is constitutive of interface meaning.
+ARCs emphasis on contextualization aligns with a growing body of interdisciplinary research across human-computer interaction (HCI), AI education, systems theory, and epistemology. Eguchi et al. (2021) underscore the value of culturally responsive, context-aware AI education. Hirsch et al. (2023) explore contextual framing in HCI-based cultural heritage systems. Murphy and Largacha\-Martinez (2023) argue that contextualization is essential for aligning AI systems with real-world organizational complexity. Addas (2020) warns that neglecting context often results in systemic failure. Nardi (1996), in her foundational work on activity theory, establishes that context is not peripheral it is constitutive of interface meaning.
 
-These perspectives affirm ARCs central claim: context is not an annotationit is a condition for epistemic trust. ARC operationalizes this by embedding context into its protocol structure through Tier-1 role prompting, Tier-2 reframing, and the full Act-As/Analyze/Audit cycle. In this light, contextualization is not just an academic valueit is a structural function that determines whether AI can serve as a trustworthy partner in knowledge work.
+These perspectives affirm ARCs central claim: context is not an annotation it is a condition for epistemic trust. ARC operationalizes this by embedding context into its protocol structure through Tier-1 role prompting, Tier-2 reframing, and the full Act-As/Analyze/Audit cycle. In this light, contextualization is not just an academic value it is a structural function that determines whether AI can serve as a trustworthy partner in knowledge work.
 
 **Pillars in Practice**
 
 **1\. Accuracy: Verifiable, Fact-Based Outputs**
 
-Accuracy in AI is not simply about avoiding errorsit is about aligning machine output with domain-valid knowledge (Barocas, Hardt, & Narayanan, 2019). The ARC Framework mandates source-backed responses, requiring that all factual claims be explicitly tied to verifiable, timestamped references.
+Accuracy in AI is not simply about avoiding errors, it is about aligning machine output with domain-valid knowledge (Barocas, Hardt, & Narayanan, 2019). The ARC Framework mandates source-backed responses, requiring that all factual claims be explicitly tied to verifiable, timestamped references.
 
 For instance, in climate science or medical diagnostics, even minor inaccuracies can lead to cascading failures (NIST, 2023). The ARC Framework mandates source-backed responses, requiring that all factual claims be explicitly tied to verifiable, timestamped references.
 
 _Example_: According to the IPCC Sixth Assessment Report (2022), carbon emissions must peak by 2025 to remain within 1.5C warming targets.
 
-Such specificity transcends vague generalizations, grounding AI claims in reproducible knowledge
+Such specificity transcends vague generalizations, grounding AI claims in reproducible knowledge.
 
 **2\. Reliability: Traceable Reasoning and Institutional Standards**
 
@@ -87,7 +87,7 @@ The U.S. National Institute of Standards and Technologys (NIST) AI Risk Manageme
 
 **3\. Contextuality: Contextual: Human-in-the-Loop Framing and Relevance**
 
-Context is the operating environment in which AI outputs are interpreted and made meaningful. Building on the work of Kahneman (2011), who demonstrates that human reasoning is inherently context-bound, as well as Dervin's (1998) theory of sense-making and Schn's (1983) reflective practitioner model, the ARC Framework asserts that context is the invisible structure shaping meaning. Without intentional framing, AI can produce technically accurate but practically irrelevant responsesa form of epistemic drift.
+Context is the operating environment in which AI outputs are interpreted and made meaningful. Building on the work of Kahneman (2011), who demonstrates that human reasoning is inherently context-bound, as well as Dervin's (1998) theory of sense-making and Schn's (1983) reflective practitioner model, the ARC Framework asserts that context is the invisible structure shaping meaning. Without intentional framing, AI can produce technically accurate but practically irrelevant responses a form of epistemic drift.
 
 To mitigate this, ARC mandates user-defined roles, goals, and domains (e.g., Act as a medical ethicist advising on gene editing policy) to ensure that outputs remain relevant, tone-appropriate, and decision-aligned. This emphasis on Contextual Intelligence shifts curation power back to the human, restoring interpretive authority where it belongs and making the user an active participant in meaning-making, not a passive recipient of machine-generated logic.
 
@@ -98,12 +98,12 @@ Tier-1 is where the ARC Protocol transitions from epistemic principle to operati
 The Tier-1 protocol consists of three interdependent components that ensure AI outputs meet scholarly and operational standards:
 
 *   Act As: The AI must adopt a clearly defined expert role to contextualize its output (e.g., Act as a climate policy advisor). This aligns the generation process with domain-specific expectations and interpretive frameworks
-*   Reference: All claims must be grounded in authoritative, verifiable sourcespreferably peer-reviewed publications, institutional reports, or timestamped documents relevant to the users domain.
+*   Reference: All claims must be grounded in authoritative, verifiable sources, preferably peer-reviewed publications, institutional reports, or timestamped documents relevant to the user's domain.
 *   Cite Sources: Every factual assertion must include traceable, properly formatted citations (e.g., APA 7th edition or discipline-specific style) to support transparency, reproducibility, and independent auditability.
 
-While the ARC Protocol emphasizes explicit, verifiable citation wherever possible, it also acknowledges the current architectural limitations of large language models. In some cases, references may be inferred through recognizable synthesis patterns rather than formally cited sources. As LLMs continue to evolve toward greater traceability and epistemic accountability, ARC is structured to both accommodate and guide this evolution. Until then, active human oversight remains indispensable to assess the credibility, relevance, and contextual fit of all referenced material.
+While the ARC Protocol emphasizes explicit, verifiable citation wherever possible, it also acknowledges the current architectural limitations of large language models. Some references may be inferred through recognizable synthesis patterns rather than formally cited sources. As LLMs continue to evolve toward greater traceability and epistemic accountability, ARC is structured to both accommodate and guide this evolution. Until then, active human oversight remains indispensable to assess all referenced material's credibility, relevance, and contextual fit.
 
-This protocol is not merely a formatting standardit is a trust mechanism that enables users to evaluate credibility, challenge assumptions, and ensure contextual alignment. Each of the ARC pillarsAccuracy, Reliability, and Contextualityis operationalized through this three-part structure, establishing a reproducible foundation for human-AI sensemaking and responsible decision framing.
+This protocol is not merely a formatting standard; it is a trust mechanism that enables users to evaluate credibility, challenge assumptions, and ensure contextual alignment. Each of the ARC pillars, Accuracy, Reliability, and Contextuality, is operationalized through this three-part structure, establishing a reproducible foundation for human-AI sensemaking and responsible decision framing.
 
 ARCs emphasis on traceability, verifiability, and contextual oversight aligns directly with the U.S. National Institute of Standards and Technologys AI Risk Management Framework (NIST AI RMF), which identifies these features as essential to trustworthy AI. This compatibility positions ARC not only as a scholarly protocol but as an actionable governance model for NIST-aligned deployment.
 
@@ -125,22 +125,22 @@ This transforms ARC Tier-1 from a checklist into an operational **protocol of tr
 
 **Tier-2: Contextual Intelligence Tier  From Verification to Judgment**
 
-If Tier-1 establishes credibility, Tier-2 restores responsibility. While Tier-1 validates AI outputs through structured rigor, Tier-2 shifts the focus to critical human engagementguiding users to interrogate assumptions, reframe insights, and commit to context-aligned action. This is where human discernment reclaims center stage, transforming passive interaction into intentional contextualization and epistemic accountability.
+If Tier-1 establishes credibility, Tier-2 restores responsibility. While Tier-1 validates AI outputs through structured rigor, Tier-2 shifts the focus to critical human engagement guiding users to interrogate assumptions, reframe insights, and commit to context-aligned action. This is where human discernment reclaims center stage, transforming passive interaction into intentional contextualization and epistemic accountability.
 
          **Analyze/Audit  Surface Blind Spots and Validate Provenance**  
-The Analyze/Audit step serves a dual function. Analyze prompts users to examine what is missing, misaligned, or unconsciously accepted in AI-generated contentechoing Kahneman and Tverskys (1984) framing effect theory. Audit adds forensic rigor: tracing the outputs logic, source provenance, and contextual alignment. This step ensures that decisions are not merely intuitive, but epistemically grounded and verifiably sound.
+The Analyze/Audit step serves a dual function. Analyze prompts users to examine what is missing, misaligned, or unconsciously accepted in AI-generated content echoing Kahneman and Tverskys (1984) framing effect theory. Audit adds forensic rigor: tracing the outputs logic, source provenance, and contextual alignment. This step ensures that decisions are not merely intuitive, but epistemically grounded and verifiably sound.
 
          **↺** **Reframe  Shift Perspective and Expand Possibility**  
-Reframing challenges users to re-interpret AI-generated insights through alternative lensesbehavioral, ethical, strategic, or theoretical. This reflects Schns (1983) reflective practitioner model and Weicks (1995) dynamic sensemaking framework. ARC asks: _How would this recommendation shift if viewed through a different stakeholder, discipline, or equity lens?_
+Reframing challenges users to re-interpret AI-generated insights through alternative lenses, behavioral, ethical, strategic, or theoretical. This reflects Schns (1983) reflective practitioner model and Weicks (1995) dynamic sensemaking framework. ARC asks: _How would this recommendation shift if viewed through a different stakeholder, discipline, or equity lens?_
 
          **Commit  Make Context-Aligned, Owned Decisions**  
 Commitment marks the point where analysis yields action. Informed by Dervins (1998) theory of sense-making, ARC positions commitment as the moment where knowledge gaps are bridged through deliberate, situated choices. It compels the user to ask: _Given the trade-offs, risks, and contextual obligations, what decision am I prepared to own and implement?_
 
-Tier-2 does not replace AI with human judgmentit embeds human agency as the final architect of meaning, responsibility, and execution.
+Tier-2 does not replace AI with human judgment it embeds human agency as the final architect of meaning, responsibility, and execution.
 
 **ARC Protocol Risk Registry: Documenting Epistemic Failures and Mitigation Paths**
 
-The ARC Protocol includes a structured Risk Registry that documents real-world anomalies, breakdowns, and epistemic failures observed during AI system interaction. Each entry is classified by ARC Tier, Pillar, Failure Type, and Mitigation Strategyproviding a feedback mechanism for refining both prompt engineering and model trust boundaries. This registry transforms ARC from a validation framework into a dynamic epistemic system, capable of learning from failure in alignment with risk-informed governance protocols such as NIST AI RMF and ISO 31000.
+The ARC Protocol includes a structured Risk Registry that documents real-world anomalies, breakdowns, and epistemic failures observed during AI system interaction. Each entry is classified by ARC Tier, Pillar, Failure Type, and Mitigation Strategy, providing a feedback mechanism for refining both prompt engineering and model trust boundaries. This registry transforms ARC from a validation framework into a dynamic epistemic system, capable of learning from failure in alignment with risk-informed governance protocols such as NIST AI RMF and ISO 31000.
 
 **Registry Function & Purpose**
 
@@ -172,7 +172,7 @@ Lexical Ambiguity
 
 Does this contain the word and?
 
-Use boundary regex in input design
+Use boundary regex in input design.
 
 ARC-C-203
 
@@ -182,25 +182,25 @@ Contextual
 
 Overgeneralized Framing
 
-Summarize ethics of AI
+Summarize the ethics of AI
 
-Add domain/role: As a bioethicist
+Add domain/role: As a bioethicist.
 
 **Registry as Governance Mechanism**
 
-The Risk Registry supports traceability, reproducibility, and institutional compliance by maintaining a transparent log of known system risks and their epistemic consequences. It also serves as a pedagogical toolenabling ARC users to learn from previous failures and improve future interactions.
+The Risk Registry supports traceability, reproducibility, and institutional compliance by maintaining a transparent log of known system risks and their epistemic consequences. It also serves as a pedagogical tool, enabling ARC users to learn from previous failures and improve future interactions.
 
 **The Curation Continuum: Intelligence as a Living Process**
 
-AI use is not a one-time transactionit is a recursive cycle of interpretation, refinement, and epistemic contextualization. The ARC Protocol formalizes this reality through the Curation Continuum, a model informed by systems thinking, organizational learning, and iterative design. Within this framework, curation is not an afterthought; it is a sustained epistemic practice that safeguards human-AI collaboration from drift, distortion, and decontextualization.
+AI use is not a one-time transaction it is a recursive cycle of interpretation, refinement, and epistemic contextualization. The ARC Protocol formalizes this reality through the Curation Continuum, a model informed by systems thinking, organizational learning, and iterative design. Within this framework, curation is not an afterthought but a sustained epistemic practice that safeguards human-AI collaboration from drift, distortion, and decontextualization.
 
-With the integration of Retrieval-Augmented Generation (RAG) and Tier-1 validation checkpoints, ARC evolves beyond a scholarly framework into a living epistemic infrastructurecapable of governing AI reasoning pipelines in applied contexts. Designed to be both rigorous and adaptable, the ARC Protocol supports domain-specific governance systems while remaining anchored in critical reasoning, source traceability, and contextual alignment.
+With the integration of Retrieval-Augmented Generation (RAG) and Tier-1 validation checkpoints, ARC evolves beyond a scholarly framework into a living epistemic infrastructure capable of governing AI reasoning pipelines in applied contexts. Designed to be both rigorous and adaptable, the ARC Protocol supports domain-specific governance systems while remaining anchored in critical reasoning, source traceability, and contextual alignment.
 
 **Scholarly Foundations:**
 
-ARCs epistemic structure draws from multiple theoretical traditions. Nonaka and Takeuchis (1995) model of knowledge creation describes a continuous spiral between tacit and explicit understandingan idea central to ARCs looped reasoning and user engagement structure. Bawden and Robinson (2020) emphasize that effective digital knowledge work depends on sustained, intentional curation, directly aligning with ARCs Curation Continuum. Snowdens (2007) Cynefin Framework reinforces the need for iterative, context-sensitive sensemaking within complex systems, mirroring ARCs emphasis on role framing, domain fit, and adaptive interpretation.
+ARCs epistemic structure draws from multiple theoretical traditions. Nonaka and Takeuchis (1995) model of knowledge creation describes a continuous spiral between tacit and explicit understanding, an idea central to ARCs looped reasoning and user engagement structure. Bawden and Robinson (2020) emphasize that effective digital knowledge work depends on sustained, intentional curation, directly aligning with ARCs Curation Continuum. Snowdens (2007) Cynefin Framework reinforces the need for iterative, context-sensitive sensemaking within complex systems, mirroring ARCs emphasis on role framing, domain fit, and adaptive interpretation.
 
-ARC is not a filter applied after the fact. It is a recursive engagement systema way to ensure that decisions evolve as context shifts, goals adapt, and new information emerges.
+ARC is not a filter applied after the fact. It is a recursive engagement system a way to ensure that decisions evolve as context shifts, goals adapt, and new information emerges.
 
 The Curation Continuum reinforces three essential truths:
 
@@ -208,7 +208,7 @@ The Curation Continuum reinforces three essential truths:
 *   Reliability must be recalibrated: New data, models, or sources may shift what is considered valid.
 *   Accuracy must be re-verified: Outputs must be checked against updated references and constraints.
 
-This approach protects against static reliance on AI and fosters epistemic agility. With ARC, the user doesnt just manage AI outputsthey curate an evolving understanding, staying aligned with reality through intentional, iterative stewardship.
+This approach protects against static reliance on AI and fosters epistemic agility. With ARC, the user doesn't just manage AI outputs; they curate an evolving understanding, staying aligned with reality through intentional, iterative stewardship.
 
 **ARC-Validated Benefits:**
 
@@ -220,7 +220,7 @@ This approach protects against static reliance on AI and fosters epistemic agili
 
 To institutionalize adoption and ensure cross-sector alignment, the ARC Framework Protocol includes a formal **Certification and Stewardship Pathway**, launching in 2025. This program provides a scalable model for education, public service, and private organizations to build capacity in responsible AI usage, based on validated ARC principles.
 
-ARC Certification enables individuals and institutions to formalize their understanding and application of the ARC Protocol. The program includes tiered credentials based on depth of engagementfrom foundational literacy to protocol-based deploymentand centers around the ARC pillars of Accuracy, Reliability, and Contextuality.
+ARC Certification enables individuals and institutions to formalize their understanding and application of the ARC Protocol. The program includes tiered credentials based on depth of engagement from foundational literacy to protocol-based deployment and centers around the ARC pillars of Accuracy, Reliability, and Contextuality.
 
 **ARC Certification Structure**
 
@@ -232,7 +232,7 @@ ARC Certification enables individuals and institutions to formalize their unders
 
 **ARC-1: Foundations**
 
-Educators, librarians, general users
+Educators, librarians, and general users
 
 ARC pillars, Tier-1 prompting, and source verification
 
@@ -252,7 +252,7 @@ Each tier includes guided modules, practical use case assignments, and a final a
 
 ARC Stewardship complements certification by creating a dynamic, open-source community of practice. Participants are invited to co-develop use cases, share evolving risks, and contribute improvements to the protocol structure. ARC stewards serve as local facilitators in libraries, schools, and civic institutions, helping ensure the protocol remains inclusive, adaptable, and grounded in public benefit.
 
-This certification and stewardship pathway positions ARC not just as a technical protocol, but as an epistemic infrastructure for education, governance, and ethical AI deployment.
+This certification and stewardship pathway positions ARC not just as a technical protocol but as an epistemic infrastructure for education, governance, and ethical AI deployment.
 
 **ARC-Validated Benefits**
 
@@ -262,9 +262,9 @@ This certification and stewardship pathway positions ARC not just as a technical
 *   Supports local and institutional trust-building through documented practice
 
 **Conclusion: Toward Epistemic Integrity in Human-AI Collaboration**  
-The ARC Protocol for Human-AI Contextualization provides a rigorously structured, philosophically grounded system for epistemic alignment in AI use. It is not a checklistit is a repeatable, role-sensitive protocol for curating, validating, and contextualizing AI-generated intelligence. In contrast to generalized collaboration frameworks, ARC explicitly positions the human as the epistemic anchor: responsible for framing prompts, verifying claims, and interpreting meaning in light of evolving ethical, cultural, and domain-specific norms.
+The ARC Protocol for Human-AI Contextualization provides a rigorously structured, philosophically grounded system for epistemic alignment in AI use. It is not a checklist it is a repeatable, role-sensitive protocol for curating, validating, and contextualizing AI-generated intelligence. In contrast to generalized collaboration frameworks, ARC explicitly positions the human as the epistemic anchor: responsible for framing prompts, verifying claims, and interpreting meaning in light of evolving ethical, cultural, and domain-specific norms.
 
-While industry discourse is increasingly recognizing the importance of context in generative AI (Forbes Technology Council, 2023), ARC offers the operational structure to implement itthrough Tier-1 validation mechanisms and Tier-2 decision loops. Grounded in scholarship, validated through field use, and adaptable across sectors, ARC equips human agents not only to interpret AI outputs, but to own themframing, challenging, and committing to decisions with both clarity and care.
+While industry discourse is increasingly recognizing the importance of context in generative AI (Forbes Technology Council, 2023), ARC offers the operational structure to implement it through Tier-1 validation mechanisms and Tier-2 decision loops. Grounded in scholarship, validated through field use, and adaptable across sectors, ARC equips human agents not only to interpret AI outputs, but to own them framing, challenging, and committing to decisions with both clarity and care.
 
 **NIST AI RMF Principle**
 
@@ -290,7 +290,7 @@ _Note._ ARCs Tier-1 validation protocol operationalizes core NIST AI RMF princip
 
 **Protocol Licensing and Commercial Deployments**
 
-The ARC Framework Protocol is published under a Creative Commons AttributionNo Derivatives 4.0 International (CC BY-ND 4.0) license to support open access, scholarly reuse, and epistemic transparency. However, specific commercial implementations of the ARC protocol are governed separately under proprietary terms. **Reef Flow** Systems represents the first narrative-based, AI-integrated product built on the ARC epistemic structure. Designed for small-to-medium businesses and civic organizations, Reef Flow operates outside the Creative Commons license as a licensed commercial deployment. While it extends the ARC framework into applied pedagogical environments, all Reef Flow implementations are required to uphold Tier-1 validation standards and Tier-2 contextual alignment, preserving the protocols core commitments to accuracy, reliability, and contextual integrity.
+The ARC Framework Protocol is published under a Creative Commons Attribution No Derivatives 4.0 International (CC BY-ND 4.0) license to support open access, scholarly reuse, and epistemic transparency. However, specific commercial implementations of the ARC protocol are governed separately under proprietary terms. **Reef Flow** Systems represents the first narrative-based, AI-integrated product built on the ARC epistemic structure. Designed for small-to-medium businesses and civic organizations, Reef Flow operates outside the Creative Commons license as a licensed commercial deployment. While it extends the ARC framework into applied pedagogical environments, all Reef Flow implementations are required to uphold Tier-1 validation standards and Tier-2 contextual alignment, preserving the protocols core commitments to accuracy, reliability, and contextual integrity.
 
 **Selected References** (APA 7)
 
@@ -340,20 +340,20 @@ Weick, K. E. (1995). Sensemaking in organizations. Sage Publications.
 
 Woods, E. (2025). _Applying the ARC Framework (Accurate, Reliable, Contextual) for Human-AI Contextualization: A Model for Assuring AI Integrity_ \[Scholarly paper\]. ARC Initiative
 
-**ARR as a Participatory Epistemic Practice  
-**Unlike traditional risk management systems that rely solely on institutional oversight or static taxonomies, the ARC Risk Registry (ARR) is designed as a living, user-powered feedback mechanism. It enables ARC usersincluding students, educators, researchers, and civic practitionersto actively log, classify, and share epistemic anomalies they encounter during human-AI interaction. Each submission contributes to a growing, structured body of knowledge that refines the ARC Protocols real-world applicability. In this way, ARR functions not only as a diagnostic tool but as a participatory epistemic commonsinviting communities of practice to
+**ARC as a Participatory Epistemic Practice  
+**Unlike traditional risk management systems that rely solely on institutional oversight or static taxonomies, the ARC Risk Registry (ARR) is designed as a living, user-powered feedback mechanism. It enables ARC users, including students, educators, researchers, and civic practitioners, to actively log, classify, and share epistemic anomalies they encounter during human-AI interaction. Each submission contributes to a growing, structured body of knowledge that refines the ARC Protocols' real-world applicability. In this way, ARC functions not only as a diagnostic tool but as a participatory epistemic commons, inviting communities of practice to
 
-**ARR as a Participatory Epistemic Practice**
+**ARC as a Participatory Epistemic Practice**
 
 _Also known in ARC-aligned learning environments as The Driftline_
 
-Unlike traditional risk management systems that rely solely on institutional oversight or static taxonomies, the ARC Risk Registry (ARR) is designed as a living, user-powered feedback mechanism. It enables ARC usersincluding students, educators, researchers, and civic practitionersto actively log, classify, and share epistemic anomalies they encounter during human-AI interaction. Each submission contributes to a growing, structured body of knowledge that refines the ARC Protocols real-world applicability.
+Unlike traditional risk management systems that rely solely on institutional oversight or static taxonomies, the ARC Risk Registry (ARR) is designed as a living, user-powered feedback mechanism. It enables ARC users, including students, educators, researchers, and civic practitioners, to actively log, classify, and share epistemic anomalies encountered during human-AI interaction. Each submission contributes to a growing, structured body of knowledge that refines the ARC Protocols' real-world applicability.
 
-Within ARC-enabled platforms such as Reef Flow, this participatory layer is colloquially referred to as The Driftlinea term drawn from oceanic ecology, where floating fragments collect at the convergence of shifting currents. In this context, Driftline entries represent surfaced misalignments, logic snags, and context drifts that, if left unexamined, could erode trust or distort action. By capturing these anomalies early, ARC users learn to reframe uncertainty not as failure, but as an invitation to collective sensemaking.
+Within ARC-enabled platforms such as Reef Flow, this participatory layer is colloquially called The Driftline, a term drawn from oceanic ecology, where floating fragments collect at the convergence of shifting currents. In this context, Driftline entries represent surfaced misalignments, logic snags, and context drifts that, if left unexamined, could erode trust or distort action. By capturing these anomalies early, ARC users learn to reframe uncertainty not as failure, but as an invitation to collective sensemaking.
 
-In this way, the ARR functions not only as a diagnostic tool but as a participatory epistemic commonsinviting communities of practice to co-curate reliability, interpretive authority, and context-aware governance.
+In this way, the ARC functions not only as a diagnostic tool but as a participatory epistemic commons inviting communities of practice to co-curate reliability, interpretive authority, and context-aware governance.
 
-co-curate reliability, interpretive authority, and context-aware governance.
+Co-curate reliability, interpretive authority, and context-aware governance.
 
 **Supplemental References for Risk Registry Alignment**
 
@@ -367,7 +367,7 @@ Partnership on AI. (2023). _AI Incident Database_. [https://incidentdatabase.ai]
 
 **License Statement**
 
-This document, _Applying the ARC Framework for Human-AI Contextualization: A Model for Assuring AI Integrity_, is  2025 Ed Woods and is licensed under the **Creative Commons AttributionNo Derivatives 4.0 International License (CC BY-ND 4.0)**.
+This document, _Applying the ARC Framework for Human-AI Contextualization: A Model for Assuring AI Integrity_, is  2025 Ed Woods and is licensed under the **Creative Commons Attribution No Derivatives 4.0 International License (CC BY-ND 4.0)**.
 
 You are free to share, distribute, and reuse this work **with attribution** but **may not alter or build upon it** without explicit permission from the author.
 
